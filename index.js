@@ -1462,7 +1462,10 @@ app.get("/version", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "raw/version.json"));
 });
 app.get("/ai", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "app/aibot.html"));
+  res.sendFile(path.join(__dirname, "public", "app/ac.html"));
+});
+app.get("/vc", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "app/Vc.html"));
 });
 app.get("/code", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "app/Code.html"));
