@@ -608,13 +608,13 @@
     "tags": ["アクション", "リズム", "激ムズ"],
     "isNew": true,
     "status": "done"
-  }
+  },
   {
-    "key": "geometry-dash",
+    "key": "chiikawa",
     "name": "Chiikawa Pazzle",
     "emoji": "🐇",
     "sub": "アクション · リズム",
-    "file": "fun/Chi Dash.html",
+    "file": "fun/Chi.html",
     "image": "img/Chi.jpeg",
     "desc": "死ぬwwww",
     "genre": "Pazzle",
